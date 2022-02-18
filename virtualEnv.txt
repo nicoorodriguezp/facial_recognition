@@ -1,0 +1,11 @@
+source ../../mlearning/mlenv/bin/activate
+
+
+
+
+'''
+Para usar este codigo primero cree un virtual env e instale todos los requerimientos que estan en 
+requierments.txt
+
+Luego activalo mediante source envFolder/bin/activate
+'''
