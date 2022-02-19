@@ -33,11 +33,13 @@ You can process faces from the camera or from an mp4 video.
 
 # Console
 <h3> python inputLayer.py </h3>
-![alt text](https://github.com/nicoorodriguezp/facial_recognition/blob/main/EjemplosResultados/inputLayer.png?raw=true)
+
+![alt text](https://github.com/nicoorodriguezp/facial_recognition/blob/main/EjemplosResultados/inputLayer.png)
 
 <h3> python hiddenLayer.py </h3>
-![alt text](https://github.com/nicoorodriguezp/facial_recognition/blob/main/EjemplosResultados/hiddenLayer1.png?raw=true)
-![alt text](https://github.com/nicoorodriguezp/facial_recognition/blob/main/EjemplosResultados/hiddenLayer2.png?raw=true)
+
+![alt text](https://github.com/nicoorodriguezp/facial_recognition/blob/main/EjemplosResultados/hiddenLayer1.png)
+![alt text](https://github.com/nicoorodriguezp/facial_recognition/blob/main/EjemplosResultados/hiddenLayer2.png)
 
 # Results
 ![alt text](https://github.com/nicoorodriguezp/facial_recognition/blob/main/EjemplosResultados/outputLayer.png)
