@@ -40,7 +40,7 @@ You can process faces from the camera or from an mp4 video.
 ![alt text](https://github.com/nicoorodriguezp/facial_recognition/hiddenLayer2.png?raw=true)
 
 # Results
-![alt text](https://github.com/nicoorodriguezp/facial_recognition/outputLayer.png?raw=true)
+![alt text](https://github.com/nicoorodriguezp/facial_recognition/blob/main/EjemplosResultados/outputLayer.png)
 ![Nicolas Gaston Rodriguez Perez](https://github.com/nicoorodriguezp/facial_recognition/outputLayer2.png?raw=true)
 
 # Docs
